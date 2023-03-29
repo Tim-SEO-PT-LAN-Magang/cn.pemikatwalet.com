@@ -1,80 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//cn.pemikatwalet.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://cn.pemikatwalet.com/</loc>
 		<lastmod>2023-03-29T06:01:10+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Parfum-walet-3.png</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/Parfum-walet-3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/%e5%8d%9a%e5%ae%a2/</loc>
+		<loc>https://cn.pemikatwalet.com/%e5%8d%9a%e5%ae%a2/</loc>
 		<lastmod>2023-03-29T06:56:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/gambar-1.png</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/gambar-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Parfum-walet-njay-1.png</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/Parfum-walet-njay-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/gambar-5.png</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/gambar-5.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/gambar-6.png</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/gambar-6.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/gambar-3.png</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/gambar-3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/gambar-4.png</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/gambar-4.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/%e7%87%95%e7%aa%9d%e5%8d%9a%e5%ae%a2/</loc>
+		<loc>https://cn.pemikatwalet.com/%e7%87%95%e7%aa%9d%e5%8d%9a%e5%ae%a2/</loc>
 		<lastmod>2023-03-29T06:55:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_5893-1024x683-1.jpg</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/IMG_5893-1024x683-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Cara-Packing-Sarang-Burung-Walet-ke-Luar-Negeri.jpg</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/Cara-Packing-Sarang-Burung-Walet-ke-Luar-Negeri.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Dijual-dengan-Harga-yang-Tinggi-Ini-Manfaat-Sarang-Walet.jpg</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/Dijual-dengan-Harga-yang-Tinggi-Ini-Manfaat-Sarang-Walet.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/1.-Kandungan-Sarang-Burung-Walet.jpg</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/1.-Kandungan-Sarang-Burung-Walet.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/%e8%81%94%e7%b3%bb%e6%88%91%e4%bb%ac/</loc>
+		<loc>https://cn.pemikatwalet.com/%e8%81%94%e7%b3%bb%e6%88%91%e4%bb%ac/</loc>
 		<lastmod>2023-03-29T06:07:08+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/%e5%85%b3%e4%ba%8e/</loc>
+		<loc>https://cn.pemikatwalet.com/%e5%85%b3%e4%ba%8e/</loc>
 		<lastmod>2023-03-29T06:04:22+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Parfum-walet-3.png</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/Parfum-walet-3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/%e6%8e%a8%e8%8d%90%e4%b9%a6/</loc>
+		<loc>https://cn.pemikatwalet.com/%e6%8e%a8%e8%8d%90%e4%b9%a6/</loc>
 		<lastmod>2023-03-29T06:03:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/%e6%9c%8d%e5%8a%a1/</loc>
+		<loc>https://cn.pemikatwalet.com/%e6%9c%8d%e5%8a%a1/</loc>
 		<lastmod>2023-03-29T06:03:18+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Parfum-walet-njay-1.png</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/Parfum-walet-njay-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/%e4%ba%a7%e5%93%81/</loc>
+		<loc>https://cn.pemikatwalet.com/%e4%ba%a7%e5%93%81/</loc>
 		<lastmod>2023-03-29T06:02:44+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Parfum-walet-1.png</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/Parfum-walet-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/IMG_2202.jpg</image:loc>
+			<image:loc>https://cn.pemikatwalet.com/wp-content/uploads/2023/03/IMG_2202.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
